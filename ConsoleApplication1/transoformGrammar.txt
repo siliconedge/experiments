@@ -1,0 +1,11 @@
+create footprint form squares
+-----------------------------------
+Operation: diplicate on direction: 1-4
+
+
+creating a house outline
+
+1) create square
+2) expand lenth to create main hull
+3) locate section of longer side and extrude it together with the skeleton
+4) appy extrusions, maintain the skelaton

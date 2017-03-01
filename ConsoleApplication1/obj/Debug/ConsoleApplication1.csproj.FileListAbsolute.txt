@@ -1,0 +1,8 @@
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\personal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\UnityEngine.dll
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\UnityEngine.xml
+C:\personal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\personal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
