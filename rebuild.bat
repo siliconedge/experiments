@@ -1,0 +1,2 @@
+devenv "C:\personal\ConsoleApplication1\ConsoleApplication1.sln" /rebuild Debug /project "ConsoleApplication1\ConsoleApplication1.csproj" /projectconfig Debug
+C:\personal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
